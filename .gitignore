@@ -1,0 +1,11 @@
+# Desktop Services Store (Mac)
+*.DS_Store
+
+# Vim
+*.swp
+
+# Node
+node_modules
+
+# Angular
+.angular
